@@ -1,0 +1,8 @@
+Reflektion om utbildningen
+Efter två veckor på utbildningen har jag fått en större förståelse för vad en backendutvecklare faktiskt arbetar med. Innan utbildningen trodde jag att backend mest handlade om programmering och att skriva kod. Nu har jag förstått att det handlar mycket om logiskt tänkande, hur olika system kommunicerar med varandra och hur data fungerar bakom systemen.
+
+Det jag tycker är mest intressant med backend är att man nästan alltid behöver lösa olika problem. Jag tycker också att det är intressant att förstå hur data och systemen bakom fungerar. Samtidigt är mycket nytt för mig, vilket ibland kan kännas svårt. Det som motiverar mig är när jag först inte förstår något, men sedan lär mig och lyckas få det att fungera. Då känns det extra roligt.
+
+Under de första två veckorna har jag stött på saker som jag inte förstod i början, till exempel olika kommandon och hur man använder terminalen. Efter att ha arbetat med det lärde jag mig till slut hur det fungerar. Det har gjort mig mer motiverad att fortsätta lära mig. Jag ser också mycket fram emot att börja lära mig C#.
+
+Jag har även förstått att backendutveckling är ett väldigt brett område. Det finns flera olika vägar man kan gå, exempelvis .NET och DevOps. I framtiden vill jag självklart arbeta inom IT-branschen och lära mig att bygga system. Cloud och DevOps är områden som jag kan tänka mig att arbeta med längre fram. Jag kan även tänka mig att använda mina kunskaper för att starta något eget i framtiden.
