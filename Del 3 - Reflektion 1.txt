@@ -1,0 +1,13 @@
+
+AI och framtiden
+
+
+Jag vet inte exakt hur AI kommer att påverka backendutvecklare om fem år eftersom AI växer och utvecklas väldigt snabbt. Jag tror inte att AI kommer att ta över backend helt. Inom backend jobbar man mycket med system, data och att lösa problem. Därför har jag svårt att se att AI kan ta över allt som en backendutvecklare gör.
+
+Jag tror däremot att AI kommer vara ett bra verktyg för backendutvecklare. AI kan hjälpa till att hitta fel i kod och göra så att man kan koda snabbare. Om man fastnar på ett problem kan AI också hjälpa till att hitta olika lösningar. Det kan göra arbetet enklare och spara tid.
+
+Men det finns också nackdelar med att använda AI. AI kan missförstå vad man menar och då kan den skriva kod som är fel. Därför tycker jag att det är viktigt att själv förstå koden och inte bara låta AI göra allt. Om man inte förstår koden kan det bli svårt att hitta felet om något inte fungerar.
+
+Jag tror också att AI kommer förändra hur utvecklare arbetar. Man kanske kommer använda AI mer i sitt arbete, men jag tror fortfarande att man behöver kunna programmering och förstå hur system fungerar. Det räcker inte att bara kunna fråga AI.
+
+Om några år tror jag att jag själv kommer ha mycket mer förståelse för hur system fungerar. Då vill jag använda AI mer som ett verktyg och inte låta den koda allt åt mig. Jag vill kunna lösa problemen själv och sedan använda AI för att få hjälp när jag behöver det. På det sättet tror jag att AI kan hjälpa mig att bli snabbare och bättre på mitt arbete. Jag tror därför att det är viktigt att lära sig använda AI på rätt sätt.
